@@ -1,0 +1,19 @@
+--- INFORMACIÓN DEL PAÍS ---
+País: Argentina
+Continente: América del Sur
+Capital Nacional: CABA
+Límita con: Uruguay
+
+--- COMPOSICIÓN PAÍS -> PROVINCIAS ---
+Cantidad de Provincias: 2
+ - Provincia: Buenos Aires (Capital Prov: La Plata)
+ - Provincia: Mendoza (Capital Prov: Mendoza Capital)
+
+--- COMPOSICIÓN PROVINCIA -> CIUDADES ---
+Ciudades de Buenos Aires (3):
+   * La Plata
+   * Bahía Blanca
+   * CABA
+
+--- LÍMITES DE PROVINCIA ---
+Buenos Aires limita con el país: Uruguay

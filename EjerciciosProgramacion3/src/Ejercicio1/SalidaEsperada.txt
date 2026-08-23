@@ -1,0 +1,14 @@
+--- Tipos de Figura ---
+Tipo: Triángulo
+Tipo: Círculo
+
+--- Triángulo (Composición Poligono -> Lado -> Punto) ---
+Lados esperados: 3
+Lados cargados: 3
+Longitud Lado 1: 3.0
+Longitud Lado 2: 5.0
+Longitud Lado 3: 4.0
+
+--- Figura Compuesta ---
+Subfiguras en Círculo: 1
+Tipo de subfigura: Cuadrado

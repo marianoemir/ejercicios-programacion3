@@ -1,0 +1,13 @@
+=== SISTEMA DE GESTION DE PARQUES NACIONALES ===
+
+Censo: Se registraron 12 Yaguareté(s) en el área Garganta del Diablo
+
+--- Roles Asignados a Carlos Gómez ---
+-> Desempeña rol GUARDA en área: Garganta del Diablo
+-> Desempeña rol INVESTIGADOR con título: Licenciado en Biología
+
+--- Excursiones y Turismo ---
+Visitante Ana Martínez inscripta en excursión: EXC-01
+
+--- Registro de Investigación Ternaria ---
+Proyecto: Conservación de Felinos Neotropicales | Investigador Titulado: Licenciado en Biología | Especie: Yaguareté
